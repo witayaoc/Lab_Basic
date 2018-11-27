@@ -1,3 +1,11 @@
 <resources>
+
     <string name="app_name">NERV</string>
+
+    <string name="name">Wittaya Jitsuk</string> 
+    <string name="nickname">Tung</string> 
+    <string name="address">สาขาวิชาวิศวกรรมคอมพิวเตอร์ สาขาอุตสาหกรรมมหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย วิทยาลัยรัตภูมิ</string> 
+
+    <color name="Bg1">#111999</color>
+
 </resources>
